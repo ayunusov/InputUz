@@ -1,5 +1,3 @@
-import logo from "figma:asset/0536da477b7cda63179a2a5d205a4b04f96e68fe.png";
-
 export function Footer() {
   return (
     <footer className="bg-gray-900 text-white">
