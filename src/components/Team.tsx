@@ -27,13 +27,6 @@ export function Team() {
       description:
         "Legal professional with over 10 years of experience in IT, corporate, commercial, and litigation law. Proven track record in supporting international transactions, contract negotiation, and dispute resolution.",
     },
-    {
-      name: "Abdulaziz Yunusov",
-      role: "Associate",
-      linkedin: "https://www.linkedin.com/in/yunusovabdulaziz/",
-      email: "a.yunusov@input.uz",
-      // optional avatar: "../assets/abdulaziz.png",
-    },
     // Add more members here. Example:
     // {
     //   name: "Full Name",
@@ -55,7 +48,7 @@ export function Team() {
           </p>
         </div>
 
-        <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+        <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
           {teamMembers.map((member, index) => (
             <div key={index} className="group">
               <div className="relative overflow-hidden rounded-lg bg-gray-100 flex flex-col items-center justify-center p-8 hover:bg-gray-50 transition-colors">
