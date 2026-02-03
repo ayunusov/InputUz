@@ -47,10 +47,10 @@ export function LicensesTable() {
     },
     {
       no: "P2",
-      english: "Permit for installation, repair, and commissioning of apparatus, transporting new, unused special hazardous chemicals (for agriculture, including pesticides, as well as for the use of residual solvent applied in hazardous production facilities)",
-      russian: "Разрешение на установку, ремонт и пусконаладку новозапущенного химических установок транспортирования, хранения и обработки новых неиспользованных специальных опасных химических веществ (для сельского хозяйства, включая пестициды, а также для использования промышленных растворителей, применяемых на опасных производственных объектах)",
-      chinese: "运输、储存和处理新的未使用的特殊危险化学品（用于农业，包括农药，以及在危险生产设施中使用的工业溶剂）的设备安装、维修和调试许可证",
-      uzbek: "Yangilash korxonalarni yangi (ishlatilinmagan) maxsus xavfli kimyoviy moddalarni (qishloq xo'jaligi uchun, shu jumladan pestitsidlar) tashish, saqlash, ishlov berish qurilmalarini o'rnatish va tuzatish, ishga tushirish uchun xavfli ishlab chiqarish ob'ektlarida qo'llaniladigan qoldiq eritmalarini ishlatish uchun ruxsatnoma"
+      english: "Permit for installation, repair, and commissioning of explosion-hazardous new technological processes and equipment, amusement park attractions, as well as for the use of technical devices applied at hazardous production facilities,
+      russian: "Разрешение на монтаж, ремонт и ввод в эксплуатацию взрывоопасных новых технологических процессов и оборудования, аттракционов парков отдыха, а также на использование технических устройств, применяемых на опасных производственных объектах",
+      chinese: "进行易爆新技术工艺和设备、游乐园游乐设施的安装、维修和调试，以及在危险生产设施中使用技术装置的许可",
+      uzbek: "Portlash xavfi bo‘lgan texnologik yangi jarayonlar va asbob-uskunalarni, istirohat bog‘lari attraksionlarini montaj qilish, ta’mirlash va ishga tushirish, shuningdek, xavfli ishlab chiqarish obyektlarida qo‘llaniladigan texnik qurilmalardan foydalanish uchun ruxsatnoma"
     },
     {
       no: "P3",
